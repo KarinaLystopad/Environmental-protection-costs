@@ -70,7 +70,7 @@
 ---
 
 ## 🔹 Візуалізація у Tableau
-[🔗посилання🔗]([url](https://public.tableau.com/shared/W7TS5TD7T?:display_count=n&:origin=viz_share_link))
+🔗посилання https://public.tableau.com/shared/W7TS5TD7T?:display_count=n&:origin=viz_share_link
 - Дашборд включає:
   - Тренд витрат у часі  
   - Топ‑10 регіонів  
